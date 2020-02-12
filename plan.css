@@ -1,0 +1,41 @@
+.plan {
+  background-image: linear-gradient(to right, #D4F9FE , #B4B0BE);
+}
+
+.okr{
+  border-color: black;
+  border-width: thin;
+  border-style: solid;
+  width:270px;
+  margin-top: 50px;
+  float: left;
+  margin-left: 150px;
+}
+
+.przedmiot {
+      background-color: #D7E1E9;
+      margin:0px;
+      width: 100%;
+}
+
+.okr ol > ul {
+  margin: 0px;
+  text-decoration: none;
+  display: inline-block;
+  padding: 0px;
+  list-style-type:none;
+}
+
+#content {
+  width:1000px;
+}
+
+.okri{
+  border-color: black;
+  border-width: thin;
+  border-style: solid;
+  width:270px;
+  margin-top: 50px;
+  float: left;
+  margin-left: 150px;
+}
